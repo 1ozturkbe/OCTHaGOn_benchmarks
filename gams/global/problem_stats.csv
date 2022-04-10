@@ -1,358 +1,358 @@
 name,n_constr,n_vars,n_bounded_vars,continuous,integer,binary,folder,selected,all_bounded,optimal,optimum
-abel,15,30,0,30,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ex4_1_1,1,1,1,1,0,0,global,0,1,-7.48731237,"Union{Missing, Float64}[-7.487312365]"
-ex4_1_2,1,1,1,1,0,0,global,0,1,-663.5000966,"Union{Missing, Float64}[-663.5000966]"
-arki0002,1977,2456,240,2456,0,0,global,0,0,,"Union{Missing, Float64}[0.9768443817]"
-arki0003,2583,2282,539,2282,0,0,global,0,0,,"Union{Missing, Float64}[3795.206068]"
-arki0004,2082,2090,1047,2090,0,0,global,0,0,,"Union{Missing, Float64}[323.4670388]"
-arki0005,5153,2370,2202,2370,0,0,global,0,0,,"Union{Missing, Float64}[372.604724]"
-arki0008,5021,5072,0,5072,0,0,global,0,0,,"Union{Missing, Float64}[]"
-arki0009,6708,7714,412,7714,0,0,global,0,0,,"Union{Missing, Float64}[-207096.6074]"
-arki0010,3428,4144,279,4144,0,0,global,0,0,,"Union{Missing, Float64}[-187908.6905]"
-arki0015,1497,2093,1980,2093,0,0,global,0,0,,"Union{Missing, Float64}[-272.2997782]"
-arki0016,2947,5047,2659,5047,0,0,global,0,0,,"Union{Missing, Float64}[867.973166]"
-arki0017,2573,4332,1098,4332,0,0,global,0,0,,"Union{Missing, Float64}[-121.8330801]"
-arki0018,10,9804,0,9804,0,0,global,0,0,,"Union{Missing, Float64}[0.01045662441]"
-arki0019,3,510,0,510,0,0,global,0,0,,"Union{Missing, Float64}[-17.54532779]"
-arki0020,3,1262,0,1262,0,0,global,0,0,,"Union{Missing, Float64}[-41.07495436]"
-arki0021,3,3187,0,3187,0,0,global,0,0,,"Union{Missing, Float64}[-72.58210091]"
-arki0022,3,4152,0,4152,0,0,global,0,0,,"Union{Missing, Float64}[]"
-arki0024,26759,8676,53,8676,0,0,global,0,0,,"Union{Missing, Float64}[]"
-bayes2_10,78,86,85,86,0,0,global,0,0,,"Union{Missing, Float64}[]"
-bayes2_20,78,86,85,86,0,0,global,0,0,,"Union{Missing, Float64}[0.0003260881442]"
-bayes2_30,78,86,85,86,0,0,global,0,0,,"Union{Missing, Float64}[0.0001075154629]"
-bayes2_50,78,86,85,86,0,0,global,0,0,,"Union{Missing, Float64}[0.5202077404]"
-bearing,13,13,6,13,0,0,global,0,0,,"Union{Missing, Float64}[]"
-btest14,94,135,43,135,0,0,global,0,0,,"Union{Missing, Float64}[-59.81738781]"
-camcge,243,279,0,279,0,0,global,0,0,,"Union{Missing, Float64}[]"
-camshape100,201,199,198,199,0,0,global,0,0,,"Union{Missing, Float64}[-4.284147122]"
-camshape200,401,399,398,399,0,0,global,0,0,,"Union{Missing, Float64}[-4.278500233]"
-camshape400,801,799,798,799,0,0,global,0,0,,"Union{Missing, Float64}[-4.275696633]"
-camshape800,1601,1599,1598,1599,0,0,global,0,0,,"Union{Missing, Float64}[-4.274306866]"
-catmix100,201,303,101,303,0,0,global,0,0,,"Union{Missing, Float64}[-0.04806939108]"
-catmix200,401,603,201,603,0,0,global,0,0,,"Union{Missing, Float64}[-0.04805912283]"
-catmix400,801,1203,401,1203,0,0,global,0,0,,"Union{Missing, Float64}[-0.04805651802]"
-catmix800,1601,2403,801,2403,0,0,global,0,0,,"Union{Missing, Float64}[-0.04805583934]"
-chain100,102,202,0,202,0,0,global,0,0,,"Union{Missing, Float64}[5.069784611]"
-chain200,202,402,0,402,0,0,global,0,0,,"Union{Missing, Float64}[5.068917342]"
-chain400,402,802,0,802,0,0,global,0,0,,"Union{Missing, Float64}[5.068621695]"
-chain50,52,102,0,102,0,0,global,0,0,,"Union{Missing, Float64}[5.072261494]"
-chakra,42,62,0,62,0,0,global,0,0,,"Union{Missing, Float64}[-179.1335579]"
-chem,5,11,0,11,0,0,global,0,0,,"Union{Missing, Float64}[-47.70651483]"
-chenery,39,43,38,43,0,0,global,0,0,,"Union{Missing, Float64}[-1058.919856]"
-circle,10,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[]"
-dispatch,3,4,3,4,0,0,global,0,0,,"Union{Missing, Float64}[3155.287927]"
-elec100,101,300,0,300,0,0,global,0,0,,"Union{Missing, Float64}[4448.350634]"
-elec25,26,75,0,75,0,0,global,0,0,,"Union{Missing, Float64}[243.8127603]"
-elec50,51,150,0,150,0,0,global,0,0,,"Union{Missing, Float64}[1055.182315]"
-etamac,71,97,0,97,0,0,global,0,0,,"Union{Missing, Float64}[-15.29467564]"
-ex14_1_1,5,3,2,3,0,0,global,0,0,,"Union{Missing, Float64}[-7.993605671e-15]"
-ex14_1_2,10,6,5,6,0,0,global,0,0,,"Union{Missing, Float64}[4.767779058e-16]"
-ex14_1_3,5,3,2,3,0,0,global,0,0,,"Union{Missing, Float64}[-1.665334537e-16]"
-ex14_1_5,7,6,5,6,0,0,global,0,0,,"Union{Missing, Float64}[-1.476596624e-14]"
-ex14_1_6,16,9,8,9,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_1_7,18,10,9,10,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_1_8,5,3,2,3,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_1_9,3,2,1,2,0,0,global,0,0,,"Union{Missing, Float64}[-8.049116929e-16]"
-ex14_2_1,8,5,4,5,0,0,global,0,0,,"Union{Missing, Float64}[3.808775517e-11]"
-ex14_2_2,6,4,3,4,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_2_3,10,6,5,6,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_2_4,8,5,4,5,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_2_5,6,4,3,4,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_2_6,8,5,4,5,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_2_7,10,6,5,6,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_2_8,6,4,3,4,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex14_2_9,6,4,3,4,0,0,global,0,0,,"Union{Missing, Float64}[2.22044605e-15]"
-ex4_1_3,1,1,1,1,0,0,global,0,1,-443.6717047,"Union{Missing, Float64}[-443.6717047]"
-ex2_1_10,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[49318.01796]"
-ex2_1_2,3,6,5,6,0,0,global,0,0,,"Union{Missing, Float64}[-213.0]"
-ex2_1_3,10,13,10,13,0,0,global,0,0,,"Union{Missing, Float64}[-15.0]"
-ex2_1_4,6,6,4,6,0,0,global,0,0,,"Union{Missing, Float64}[-11.0]"
-ex4_1_4,1,1,1,1,0,0,global,0,1,0,"Union{Missing, Float64}[0.0]"
-ex4_1_6,1,1,1,1,0,0,global,0,1,7,"Union{Missing, Float64}[7.0]"
-ex2_1_7,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-4150.410134]"
-ex4_1_7,1,1,1,1,0,0,global,0,1,-7.5,"Union{Missing, Float64}[-7.5]"
-ex2_1_9,2,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[-0.375]"
-prob06,2,1,1,1,0,0,global,0,1,,"Union{Missing, Float64}[1.177124344]"
-ex4_1_8,2,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-16.73889318]"
-ex3_1_3,7,6,4,6,0,0,global,0,0,,"Union{Missing, Float64}[-310.0]"
-ex3_1_4,4,3,2,3,0,0,global,0,0,,"Union{Missing, Float64}[-4.0]"
-ex4_1_9,3,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-5.508013271]"
-mathopt1,3,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[3.289428863e-18]"
-prob09,1,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-1.002562255e-13]"
-rbrock,1,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[2.045321084e-23]"
-ex4_1_5,1,2,1,2,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-st_e01,2,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-6.666666667]"
-st_e08,3,2,2,2,0,0,global,1,1,0.74178196,"Union{Missing, Float64}[0.7417819582]"
-st_e09,2,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-0.5000000001]"
-st_e17,2,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[]"
-st_e18,5,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-2.828427125]"
-st_e19,3,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-118.7048598]"
-st_e22,6,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-85.0]"
-st_e23,3,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-1.083333333]"
-st_e24,5,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[2.999999999]"
-st_e26,5,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-185.7792]"
-st_ht,4,2,2,2,0,0,global,0,1,,"Union{Missing, Float64}[-1.6]"
-ex6_2_11,2,3,3,3,0,0,global,0,1,,"Union{Missing, Float64}[-2.672407762e-6]"
-ex6_2_6,2,3,3,3,0,0,global,0,1,,"Union{Missing, Float64}[-2.602527073e-6]"
-ex6_2_8,2,3,3,3,0,0,global,0,1,,"Union{Missing, Float64}[-0.02700634884]"
-ex6_1_1,7,8,4,8,0,0,global,0,0,,"Union{Missing, Float64}[-0.0201983117]"
-ex6_1_2,4,4,2,4,0,0,global,0,0,,"Union{Missing, Float64}[-0.03246375011]"
-ex6_1_3,10,12,6,12,0,0,global,0,0,,"Union{Missing, Float64}[-0.3524978012]"
-ex6_1_4,5,6,3,6,0,0,global,0,0,,"Union{Missing, Float64}[-0.2945412877]"
-st_cqpjk2,2,3,3,3,0,0,global,1,1,-12.5,"Union{Missing, Float64}[]"
-st_e02,4,3,3,3,0,0,global,0,1,,"Union{Missing, Float64}[201.1593341]"
-st_e06,4,3,3,3,0,0,global,0,1,,"Union{Missing, Float64}[0.0]"
-st_e11,3,3,3,3,0,0,global,0,1,,"Union{Missing, Float64}[189.3116297]"
-ex6_2_12,3,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[0.2891947485]"
-ex6_2_14,3,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[-0.6953579346]"
-ex6_2_9,3,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[-0.03406618412]"
-sample,3,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[]"
-st_bpv1,5,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[10.0]"
-st_bpv2,6,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[-8.0]"
-st_e04,3,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[5194.866244]"
-st_e12,4,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[-4.514201651]"
-st_e41,3,4,4,4,0,0,global,0,1,,"Union{Missing, Float64}[641.8235623]"
-ex2_1_1,2,5,5,5,0,0,global,1,1,-17,"Union{Missing, Float64}[-17.0]"
-ex7_3_1,8,4,0,4,0,0,global,0,0,,"Union{Missing, Float64}[0.3417395531]"
-ex7_3_2,8,4,0,4,0,0,global,0,0,,"Union{Missing, Float64}[1.089863971]"
-ex7_3_3,9,5,1,5,0,0,global,0,0,,"Union{Missing, Float64}[0.8175290489]"
-ex7_3_4,18,12,1,12,0,0,global,0,0,,"Union{Missing, Float64}[6.274634337]"
-ex7_3_5,16,13,1,13,0,0,global,0,0,,"Union{Missing, Float64}[1.20687143]"
-ex7_3_6,18,17,6,17,0,0,global,0,0,,"Union{Missing, Float64}[missing]"
-ex8_1_3,1,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[3.0]"
-ex8_1_4,1,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-ex8_1_5,1,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[-1.031628453]"
-ex8_1_6,1,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[-10.0860015]"
-ex3_1_2,7,5,5,5,0,0,global,0,1,,"Union{Missing, Float64}[-30665.53867]"
-ex8_2_1,32,55,0,55,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ex8_1_7,6,5,5,5,0,0,global,0,1,,"Union{Missing, Float64}[0.0293108307]"
-st_e05,4,5,5,5,0,0,global,0,1,,"Union{Missing, Float64}[7049.249272]"
-ex8_2_2,1948,7510,0,7510,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ex6_2_10,4,6,6,6,0,0,global,0,1,,"Union{Missing, Float64}[-3.051976126]"
-ex6_2_13,4,6,6,6,0,0,global,0,1,,"Union{Missing, Float64}[-0.2162094369]"
-ex8_2_3,3156,15636,0,15636,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ex7_2_2,6,6,6,6,0,0,global,0,1,,"Union{Missing, Float64}[-0.3888114343]"
-st_bsj3,2,6,6,6,0,0,global,0,1,,"Union{Missing, Float64}[-86768.55]"
-ex8_2_4,82,55,0,55,0,0,global,0,0,,"Union{Missing, Float64}[]"
-st_bsj4,5,6,6,6,0,0,global,0,1,,"Union{Missing, Float64}[-70262.05]"
-st_e21,7,6,6,6,0,0,global,0,1,,"Union{Missing, Float64}[-13.40190356]"
-ex8_2_5,3775,2510,0,2510,0,0,global,0,0,,"Union{Missing, Float64}[]"
-st_e34,5,6,6,6,0,0,global,1,1,0.01561953 ,"Union{Missing, Float64}[0.01561952524]"
-ex5_2_4,7,7,7,7,0,0,global,0,1,0.01561953,"Union{Missing, Float64}[-450.0]"
-ex7_2_1,15,7,7,7,0,0,global,0,1,,"Union{Missing, Float64}[1227.226075]"
-ex3_1_1,7,8,8,8,0,0,global,0,1,,"Union{Missing, Float64}[7049.248021]"
-ex5_4_2,7,8,8,8,0,0,global,0,1,,"Union{Missing, Float64}[7512.230145]"
-ex7_2_3,7,8,8,8,0,0,global,0,1,,"Union{Missing, Float64}[7049.24802]"
-ex7_2_4,5,8,8,8,0,0,global,0,1,,"Union{Missing, Float64}[3.918010226]"
-st_iqpbk1,8,8,8,8,0,0,global,0,1,,"Union{Missing, Float64}[-621.487825]"
-st_iqpbk2,8,8,8,8,0,0,global,0,1,,"Union{Missing, Float64}[-1195.22565]"
-st_robot,9,8,8,8,0,0,global,0,1,,"Union{Missing, Float64}[0.0]"
-ex5_2_2_case1,7,9,9,9,0,0,global,0,1,,"Union{Missing, Float64}[-400.0]"
-ex5_2_2_case2,7,9,9,9,0,0,global,0,1,,"Union{Missing, Float64}[-600.0]"
-ex5_2_2_case3,7,9,9,9,0,0,global,0,1,,"Union{Missing, Float64}[-750.0]"
-ex6_2_5,4,9,9,9,0,0,global,0,1,,"Union{Missing, Float64}[-70.75207783]"
-ex6_2_7,4,9,9,9,0,0,global,0,1,,"Union{Missing, Float64}[-0.1608476155]"
-st_e33,7,9,9,9,0,0,global,0,1,,"Union{Missing, Float64}[-400.0]"
-alkylation,12,10,10,10,0,0,global,0,1,,"Union{Missing, Float64}[1768.806964]"
-ex2_1_5,12,10,10,10,0,0,global,1,1,-268.0146315,"Union{Missing, Float64}[-268.0146315]"
-ex2_1_6,6,10,10,10,0,0,global,0,1,,"Union{Missing, Float64}[-39.0]"
-ex8_4_4,13,17,16,17,0,0,global,0,0,,"Union{Missing, Float64}[0.2124598387]"
-process,8,10,10,10,0,0,global,0,1,,"Union{Missing, Float64}[-1161.336602]"
-st_bpaf1a,11,10,10,10,0,0,global,1,1,-45.37971014,"Union{Missing, Float64}[-45.37971014]"
-ex8_4_7,41,62,52,62,0,0,global,0,0,,"Union{Missing, Float64}[29.04730672]"
-ex8_4_8,31,42,22,42,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ex8_4_8_bnd,31,42,22,42,0,0,global,0,0,,"Union{Missing, Float64}[3.321847314]"
-ex8_5_1,5,6,0,6,0,0,global,0,0,,"Union{Missing, Float64}[-4.071768724e-7]"
-ex8_5_2,5,6,0,6,0,0,global,0,0,,"Union{Missing, Float64}[-1.150371653e-8]"
-ex8_5_3,5,5,0,5,0,0,global,0,0,,"Union{Missing, Float64}[-0.004135429927]"
-ex8_5_4,5,5,0,5,0,0,global,0,0,,"Union{Missing, Float64}[-0.0004251471009]"
-ex8_5_5,5,5,0,5,0,0,global,0,0,,"Union{Missing, Float64}[-0.01075334273]"
-ex8_5_6,5,6,0,6,0,0,global,0,0,,"Union{Missing, Float64}[-0.001167372151]"
-ex8_6_1,46,75,24,75,0,0,global,0,0,,"Union{Missing, Float64}[-28.42253189]"
-ex8_6_2,1,30,24,30,0,0,global,0,0,,"Union{Missing, Float64}[-31.88862963]"
-ex9_1_1,13,13,0,13,0,0,global,0,0,,"Union{Missing, Float64}[-13.0]"
-ex9_1_2,10,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[-16.0]"
-ex9_1_4,10,10,8,10,0,0,global,0,0,,"Union{Missing, Float64}[-37.0]"
-ex9_1_5,13,13,0,13,0,0,global,0,0,,"Union{Missing, Float64}[-1.0]"
-ex9_1_8,13,14,0,14,0,0,global,0,0,,"Union{Missing, Float64}[-3.25]"
-ex9_2_2,12,10,8,10,0,0,global,0,0,,"Union{Missing, Float64}[99.99996939]"
-ex9_2_3,16,16,14,16,0,0,global,0,0,,"Union{Missing, Float64}[-0.0]"
-ex9_2_4,8,8,4,8,0,0,global,0,0,,"Union{Missing, Float64}[0.5]"
-ex9_2_5,8,8,1,8,0,0,global,0,0,,"Union{Missing, Float64}[5.000000146]"
-ex9_2_6,13,16,12,16,0,0,global,0,0,,"Union{Missing, Float64}[-1.0]"
-ex9_2_7,10,10,8,10,0,0,global,0,0,,"Union{Missing, Float64}[17.0]"
-ex9_2_8,6,6,3,6,0,0,global,0,0,,"Union{Missing, Float64}[1.5]"
-filter,2,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[8685.277077]"
-flowchan100,2399,2400,0,2400,0,0,global,0,0,,"Union{Missing, Float64}[]"
-flowchan200,4799,4800,0,4800,0,0,global,0,0,,"Union{Missing, Float64}[]"
-flowchan400,9599,9600,0,9600,0,0,global,0,0,,"Union{Missing, Float64}[]"
-flowchan50,1199,1200,0,1200,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ganges,274,356,0,356,0,0,global,0,0,,"Union{Missing, Float64}[]"
-gasoil100,2599,2603,0,2603,0,0,global,0,0,,"Union{Missing, Float64}[0.005236594316]"
-gasoil200,5199,5203,0,5203,0,0,global,0,0,,"Union{Missing, Float64}[0.005236595871]"
-gasoil400,10399,10403,0,10403,0,0,global,0,0,,"Union{Missing, Float64}[0.005236595833]"
-gasoil50,1299,1303,0,1303,0,0,global,0,0,,"Union{Missing, Float64}[0.005236640021]"
-glider100,1210,1315,101,1315,0,0,global,0,0,,"Union{Missing, Float64}[-1255.058601]"
-glider200,2410,2615,201,2615,0,0,global,0,0,,"Union{Missing, Float64}[-1248.896362]"
-glider400,4810,5215,401,5215,0,0,global,0,0,,"Union{Missing, Float64}[-1247.974318]"
-glider50,610,665,51,665,0,0,global,0,0,,"Union{Missing, Float64}[-244053.1445]"
-gsg_0001,112,77,72,77,0,0,global,0,0,,"Union{Missing, Float64}[2378.160513]"
-gtm,25,63,36,63,0,0,global,0,0,,"Union{Missing, Float64}[]"
-harker,8,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[]"
-haverly,10,12,2,12,0,0,global,0,0,,"Union{Missing, Float64}[-400.0]"
-hhfair,26,29,3,29,0,0,global,0,0,,"Union{Missing, Float64}[-87.15903761]"
-himmel16,22,18,0,18,0,0,global,0,0,,"Union{Missing, Float64}[-0.8660254038]"
-house,9,8,3,8,0,0,global,0,0,,"Union{Missing, Float64}[-4500.0]"
-hs62,2,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[-26272.54101]"
-hydro,25,31,18,31,0,0,global,0,0,,"Union{Missing, Float64}[4.36694416e6]"
-infeas1,1615,273,212,273,0,0,global,0,0,,"Union{Missing, Float64}[13685.59646]"
-jbearing100,1,5304,0,5304,0,0,global,0,0,,"Union{Missing, Float64}[]"
-jbearing25,1,1404,0,1404,0,0,global,0,0,,"Union{Missing, Float64}[]"
-jbearing50,1,2704,0,2704,0,0,global,0,0,,"Union{Missing, Float64}[]"
-jbearing75,1,4004,0,4004,0,0,global,0,0,,"Union{Missing, Float64}[]"
-korcge,78,95,0,95,0,0,global,0,0,,"Union{Missing, Float64}[]"
-launch,29,38,14,38,0,0,global,0,0,,"Union{Missing, Float64}[2257.797558]"
-least,1,3,1,3,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-like,4,9,0,9,0,0,global,0,0,,"Union{Missing, Float64}[-160.6243051]"
-linear,21,24,20,24,0,0,global,0,0,,"Union{Missing, Float64}[]"
-st_bpaf1b,11,10,10,10,0,0,global,0,1,,"Union{Missing, Float64}[-42.9625576]"
-mathopt2,5,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[5.314966867e-35]"
-maxmin,78,26,24,26,0,0,global,0,0,,"Union{Missing, Float64}[-0.3660960077]"
-meanvar,3,8,7,8,0,0,global,0,0,,"Union{Missing, Float64}[]"
-methanol100,2998,3005,0,3005,0,0,global,0,0,,"Union{Missing, Float64}[0.009022291067]"
-methanol200,5998,6005,0,6005,0,0,global,0,0,,"Union{Missing, Float64}[0.009022289796]"
-methanol400,11998,12005,0,12005,0,0,global,0,0,,"Union{Missing, Float64}[0.009022289855]"
-methanol50,1498,1505,0,1505,0,0,global,0,0,,"Union{Missing, Float64}[0.007930218792]"
-mhw4d,4,5,0,5,0,0,global,0,0,,"Union{Missing, Float64}[0.02931083072]"
-minlphi,80,64,6,64,0,0,global,0,0,,"Union{Missing, Float64}[582.236142]"
-minsurf100,1,5304,0,5304,0,0,global,0,0,,"Union{Missing, Float64}[2.506949264]"
-minsurf25,1,1404,0,1404,0,0,global,0,0,,"Union{Missing, Float64}[2.519487676]"
-minsurf50,1,2704,0,2704,0,0,global,0,0,,"Union{Missing, Float64}[2.51488916]"
-minsurf75,1,4004,0,4004,0,0,global,0,0,,"Union{Missing, Float64}[2.505686479]"
-nemhaus,6,5,0,5,0,0,global,0,0,,"Union{Missing, Float64}[31.0]"
-otpop,77,103,16,103,0,0,global,0,0,,"Union{Missing, Float64}[7.403902673e-16]"
-pindyck,97,116,0,116,0,0,global,0,0,,"Union{Missing, Float64}[-1170.486285]"
-pinene100,4996,5005,0,5005,0,0,global,0,0,,"Union{Missing, Float64}[19.87217015]"
-pinene200,9996,10005,0,10005,0,0,global,0,0,,"Union{Missing, Float64}[19.87216708]"
-pinene50,2496,2505,0,2505,0,0,global,0,0,,"Union{Missing, Float64}[19.87216552]"
-pollut,9,42,40,42,0,0,global,0,0,,"Union{Missing, Float64}[]"
-popdynm100,5593,5615,0,5615,0,0,global,0,0,,"Union{Missing, Float64}[19746.5286]"
-popdynm200,11193,11215,0,11215,0,0,global,0,0,,"Union{Missing, Float64}[19746.52965]"
-popdynm25,1393,1415,0,1415,0,0,global,0,0,,"Union{Missing, Float64}[19752.21542]"
-popdynm50,2793,2815,0,2815,0,0,global,0,0,,"Union{Missing, Float64}[19746.54516]"
-st_e03,8,10,10,10,0,0,global,0,1,,"Union{Missing, Float64}[-1161.336602]"
-prob07,36,14,0,14,0,0,global,0,0,,"Union{Missing, Float64}[154990.2294]"
-st_e07,8,10,10,10,0,0,global,1,1,-400,"Union{Missing, Float64}[-400.0]"
-st_jcbpaf2,14,10,10,10,0,0,global,1,1,-794.855914,"Union{Missing, Float64}[-794.855914]"
-prolog,23,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-0.0]"
-qp1,3,50,0,50,0,0,global,0,0,,"Union{Missing, Float64}[]"
-qp2,3,50,0,50,0,0,global,0,0,,"Union{Missing, Float64}[]"
-qp3,53,100,0,100,0,0,global,0,0,,"Union{Missing, Float64}[0.0008093150504]"
-qp4,32,79,0,79,0,0,global,0,0,,"Union{Missing, Float64}[]"
-qp5,32,108,0,108,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ramsey,23,33,10,33,0,0,global,0,0,,"Union{Missing, Float64}[-2.487468639]"
-st_e16,10,12,12,12,0,0,global,1,1,12292.46728,"Union{Missing, Float64}[12292.46728]"
-rocket100,503,607,200,607,0,0,global,0,0,,"Union{Missing, Float64}[-1.012831902]"
-rocket200,1003,1207,400,1207,0,0,global,0,0,,"Union{Missing, Float64}[-1.012835628]"
-rocket400,2003,2407,800,2407,0,0,global,0,0,,"Union{Missing, Float64}[-1.012836339]"
-rocket50,253,307,100,307,0,0,global,0,0,,"Union{Missing, Float64}[-1.0128171]"
-sambal,11,17,0,17,0,0,global,0,0,,"Union{Missing, Float64}[]"
-alkyl,8,14,14,14,0,0,global,1,1,-1.76499965,"Union{Missing, Float64}[-1.764999646]"
-ship,17,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ex8_4_6,9,14,14,14,0,0,global,1,1,0.00110498 ,"Union{Missing, Float64}[0.001104978993]"
-st_e30,16,14,14,14,0,0,global,0,1,,"Union{Missing, Float64}[-1.58113883]"
-st_bpk1,7,4,0,4,0,0,global,0,0,,"Union{Missing, Float64}[-13.0]"
-ex8_4_5,12,15,15,15,0,0,global,1,1,0.00030749,"Union{Missing, Float64}[0.0003074859878]"
-ex5_4_3,14,16,16,16,0,0,global,0,1,,"Union{Missing, Float64}[4845.462005]"
-st_bsj2,6,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[1.0]"
-ex5_3_2,17,22,22,22,0,0,global,1,1,1.86415946,"Union{Missing, Float64}[1.864159459]"
-ex8_4_1,11,22,22,22,0,0,global,1,1,0.61857276,"Union{Missing, Float64}[0.6185727593]"
-st_cqpf,7,4,1,4,0,0,global,0,0,,"Union{Missing, Float64}[]"
-st_cqpjk1,3,4,2,4,0,0,global,0,0,,"Union{Missing, Float64}[]"
-ex2_1_8,11,24,24,24,0,0,global,1,1,15639,"Union{Missing, Float64}[15639.0]"
-ex8_4_2,11,24,24,24,0,0,global,1,1,0.48515249,"Union{Missing, Float64}[0.4851524869]"
-ex5_4_4,20,27,27,27,0,0,global,0,1,,"Union{Missing, Float64}[10077.7754]"
-ex5_2_5,20,32,32,32,0,0,global,1,1,-3500,"Union{Missing, Float64}[-3500.0]"
-ex8_4_3,26,52,52,52,0,0,global,1,1,0.00464972,"Union{Missing, Float64}[0.004649715665]"
-ex8_2_1a,32,55,55,55,0,0,global,1,1,100000000,"Union{Missing, Float64}[]"
-ex8_2_4a,82,55,55,55,0,0,global,1,1,100000000,"Union{Missing, Float64}[]"
-ex8_2_1b,34,57,57,57,0,0,global,1,1,-979.1782737,"Union{Missing, Float64}[-979.1782737]"
-ex8_2_4b,88,61,61,61,0,0,global,1,1,-1197.131899,"Union{Missing, Float64}[-1197.131899]"
-ex5_3_3,54,62,62,62,0,0,global,1,1,3.23401822,"Union{Missing, Float64}[3.234018224]"
-ex8_3_9,46,78,78,78,0,0,global,1,1,-0.76300193,"Union{Missing, Float64}[-0.7630019345]"
-ex8_3_14,72,110,110,110,0,0,global,1,1,-2.49863871,"Union{Missing, Float64}[]"
-ex8_3_2,77,110,110,110,0,0,global,0,1,,"Union{Missing, Float64}[-0.4123301847]"
-ex8_3_3,77,110,110,110,0,0,global,0,1,,"Union{Missing, Float64}[-0.4166030833]"
-ex8_3_4,77,110,110,110,0,0,global,0,1,,"Union{Missing, Float64}[-3.579982383]"
-ex8_3_5,77,110,110,110,0,0,global,0,1,,"Union{Missing, Float64}[-0.06911967013]"
-ex8_3_6,77,110,110,110,0,0,global,0,1,,"Union{Missing, Float64}[]"
-ex8_3_1,77,115,115,115,0,0,global,0,1,,"Union{Missing, Float64}[]"
-ex8_3_11,77,115,115,115,0,0,global,0,1,,"Union{Missing, Float64}[]"
-ex8_3_13,73,115,115,115,0,0,global,0,1,,"Union{Missing, Float64}[-43.08947815]"
-st_e25,9,4,0,4,0,0,global,0,0,,"Union{Missing, Float64}[0.8901935907]"
-ex8_3_12,82,120,120,120,0,0,global,0,1,,"Union{Missing, Float64}[]"
-st_e28,5,9,8,9,0,0,global,0,0,,"Union{Missing, Float64}[-30665.53867]"
-ex8_3_7,93,126,126,126,0,0,global,0,1,,"Union{Missing, Float64}[-1.232619191]"
-ex8_3_8,94,126,126,126,0,0,global,0,1,,"Union{Missing, Float64}[-3.256119092]"
-ex8_3_10,109,141,141,141,0,0,global,0,1,,"Union{Missing, Float64}[]"
-st_e37,2,4,2,4,0,0,global,0,0,,"Union{Missing, Float64}[0.00104172024]"
-ex8_2_5a,3775,2510,2510,2510,0,0,global,0,1,,"Union{Missing, Float64}[]"
-st_e42,3,7,5,7,0,0,global,0,0,,"Union{Missing, Float64}[18.7842]"
-st_fp7a,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-354.7506124]"
-st_fp7b,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-634.7506124]"
-st_fp7c,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-8695.012248]"
-st_fp7d,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-114.7506124]"
-st_fp7e,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-3730.410134]"
-st_fp8,21,24,0,24,0,0,global,0,0,,"Union{Missing, Float64}[15639.0]"
-st_glmp_fp1,9,4,2,4,0,0,global,0,0,,"Union{Missing, Float64}[10.0]"
-st_glmp_fp2,10,4,2,4,0,0,global,0,0,,"Union{Missing, Float64}[7.344545418]"
-st_glmp_fp3,9,4,2,4,0,0,global,0,0,,"Union{Missing, Float64}[-12.0]"
-st_glmp_kk90,8,5,2,5,0,0,global,0,0,,"Union{Missing, Float64}[3.0]"
-st_glmp_kk92,9,4,2,4,0,0,global,0,0,,"Union{Missing, Float64}[-12.0]"
-st_glmp_kky,14,7,2,7,0,0,global,0,0,,"Union{Missing, Float64}[-2.5]"
-st_glmp_ss1,12,5,2,5,0,0,global,0,0,,"Union{Missing, Float64}[-24.57142857]"
-st_glmp_ss2,9,5,2,5,0,0,global,0,0,,"Union{Missing, Float64}[2.999999997]"
-ex8_2_5b,3799,2534,2534,2534,0,0,global,0,1,,"Union{Missing, Float64}[]"
-ex8_2_2a,1948,7510,7510,7510,0,0,global,0,1,,"Union{Missing, Float64}[]"
-ex8_2_2b,1960,7522,7522,7522,0,0,global,0,1,,"Union{Missing, Float64}[]"
-ex8_2_3a,3156,15636,15636,15636,0,0,global,0,1,,"Union{Missing, Float64}[]"
-st_m1,12,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-461356.9389]"
-st_m2,22,30,0,30,0,0,global,0,0,,"Union{Missing, Float64}[-856648.8187]"
-st_pan1,5,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[-5.283709184]"
-st_ph1,6,6,0,6,0,0,global,0,0,,"Union{Missing, Float64}[-230.117284]"
-st_ph10,5,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[-10.5]"
-st_ph11,5,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[-11.28125]"
-st_ph12,5,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[-22.625]"
-st_ph13,11,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[-11.28125]"
-st_ph14,11,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[-229.7222222]"
-st_ph15,5,4,0,4,0,0,global,0,0,,"Union{Missing, Float64}[-392.7037037]"
-st_ph2,6,6,0,6,0,0,global,0,0,,"Union{Missing, Float64}[-1028.117284]"
-st_ph20,10,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[-158.0]"
-st_ph3,6,6,0,6,0,0,global,0,0,,"Union{Missing, Float64}[-420.2348199]"
-st_phex,6,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[-85.0]"
-st_qpc-m0,3,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[-5.000000003]"
-st_qpc-m1,6,5,0,5,0,0,global,0,0,,"Union{Missing, Float64}[-473.7777778]"
-st_qpc-m3a,11,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[-382.695]"
-st_qpc-m3b,11,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-st_qpc-m3c,11,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-st_qpc-m4,11,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-st_qpk1,5,2,0,2,0,0,global,0,0,,"Union{Missing, Float64}[-3.0]"
-st_qpk2,13,6,0,6,0,0,global,0,0,,"Union{Missing, Float64}[-12.25]"
-st_qpk3,23,11,0,11,0,0,global,0,0,,"Union{Missing, Float64}[-36.0]"
-ex8_2_3b,3161,15641,15641,15641,0,0,global,0,1,,"Union{Missing, Float64}[]"
-st_rv1,6,10,0,10,0,0,global,0,0,,"Union{Missing, Float64}[-59.9439166]"
-st_rv2,11,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-64.4806951]"
-st_rv3,21,20,0,20,0,0,global,0,0,,"Union{Missing, Float64}[-35.76067064]"
-st_rv7,21,30,0,30,0,0,global,0,0,,"Union{Missing, Float64}[-138.1874971]"
-st_rv8,21,40,0,40,0,0,global,0,0,,"Union{Missing, Float64}[-132.661629]"
-st_rv9,21,50,0,50,0,0,global,0,0,,"Union{Missing, Float64}[-120.1531085]"
-st_z,6,3,0,3,0,0,global,0,0,,"Union{Missing, Float64}[0.0]"
-torsion100,5,5308,5000,5308,0,0,global,0,0,,"Union{Missing, Float64}[-0.4182392133]"
-torsion25,5,1408,1250,1408,0,0,global,0,0,,"Union{Missing, Float64}[-0.4175107296]"
-torsion50,5,2708,2500,2708,0,0,global,0,0,,"Union{Missing, Float64}[-0.418087632]"
-torsion75,5,4008,3750,4008,0,0,global,0,0,,"Union{Missing, Float64}[-0.4181994007]"
-turkey,288,518,60,518,0,0,global,0,0,,"Union{Missing, Float64}[]"
-wall,6,5,0,5,0,0,global,0,0,,"Union{Missing, Float64}[]"
-water,26,41,16,41,0,0,global,0,0,,"Union{Missing, Float64}[904.9021593]"
-weapons,13,65,0,65,0,0,global,0,0,,"Union{Missing, Float64}[]"
+abel,15,30,0,30,0,0,global,0,0,,Inf
+ex4_1_1,1,1,1,1,0,0,global,0,1,-7.48731237,-7.487312365
+ex4_1_2,1,1,1,1,0,0,global,0,1,-663.5000966,-663.5000966
+arki0002,1977,2456,240,2456,0,0,global,0,0,,0.9768443817
+arki0003,2583,2282,539,2282,0,0,global,0,0,,3795.206068
+arki0004,2082,2090,1047,2090,0,0,global,0,0,,323.4670388
+arki0005,5153,2370,2202,2370,0,0,global,0,0,,372.604724
+arki0008,5021,5072,0,5072,0,0,global,0,0,,Inf
+arki0009,6708,7714,412,7714,0,0,global,0,0,,-207096.6074
+arki0010,3428,4144,279,4144,0,0,global,0,0,,-187908.6905
+arki0015,1497,2093,1980,2093,0,0,global,0,0,,-272.2997782
+arki0016,2947,5047,2659,5047,0,0,global,0,0,,867.973166
+arki0017,2573,4332,1098,4332,0,0,global,0,0,,-121.8330801
+arki0018,10,9804,0,9804,0,0,global,0,0,,0.01045662441
+arki0019,3,510,0,510,0,0,global,0,0,,-17.54532779
+arki0020,3,1262,0,1262,0,0,global,0,0,,-41.07495436
+arki0021,3,3187,0,3187,0,0,global,0,0,,-72.58210091
+arki0022,3,4152,0,4152,0,0,global,0,0,,Inf
+arki0024,26759,8676,53,8676,0,0,global,0,0,,Inf
+bayes2_10,78,86,85,86,0,0,global,0,0,,Inf
+bayes2_20,78,86,85,86,0,0,global,0,0,,0.0003260881442
+bayes2_30,78,86,85,86,0,0,global,0,0,,0.0001075154629
+bayes2_50,78,86,85,86,0,0,global,0,0,,0.5202077404
+bearing,13,13,6,13,0,0,global,0,0,,Inf
+btest14,94,135,43,135,0,0,global,0,0,,-59.81738781
+camcge,243,279,0,279,0,0,global,0,0,,Inf
+camshape100,201,199,198,199,0,0,global,0,0,,-4.284147122
+camshape200,401,399,398,399,0,0,global,0,0,,-4.278500233
+camshape400,801,799,798,799,0,0,global,0,0,,-4.275696633
+camshape800,1601,1599,1598,1599,0,0,global,0,0,,-4.274306866
+catmix100,201,303,101,303,0,0,global,0,0,,-0.04806939108
+catmix200,401,603,201,603,0,0,global,0,0,,-0.04805912283
+catmix400,801,1203,401,1203,0,0,global,0,0,,-0.04805651802
+catmix800,1601,2403,801,2403,0,0,global,0,0,,-0.04805583934
+chain100,102,202,0,202,0,0,global,0,0,,5.069784611
+chain200,202,402,0,402,0,0,global,0,0,,5.068917342
+chain400,402,802,0,802,0,0,global,0,0,,5.068621695
+chain50,52,102,0,102,0,0,global,0,0,,5.072261494
+chakra,42,62,0,62,0,0,global,0,0,,-179.1335579
+chem,5,11,0,11,0,0,global,0,0,,-47.70651483
+chenery,39,43,38,43,0,0,global,0,0,,-1058.919856
+circle,10,2,0,2,0,0,global,0,0,,Inf
+dispatch,3,4,3,4,0,0,global,0,0,,3155.287927
+elec100,101,300,0,300,0,0,global,0,0,,4448.350634
+elec25,26,75,0,75,0,0,global,0,0,,243.8127603
+elec50,51,150,0,150,0,0,global,0,0,,1055.182315
+etamac,71,97,0,97,0,0,global,0,0,,-15.29467564
+ex14_1_1,5,3,2,3,0,0,global,0,0,,-7.993605671e-15
+ex14_1_2,10,6,5,6,0,0,global,0,0,,4.767779058e-16
+ex14_1_3,5,3,2,3,0,0,global,0,0,,-1.665334537e-16
+ex14_1_5,7,6,5,6,0,0,global,0,0,,-1.476596624e-14
+ex14_1_6,16,9,8,9,0,0,global,0,0,,0.0
+ex14_1_7,18,10,9,10,0,0,global,0,0,,0.0
+ex14_1_8,5,3,2,3,0,0,global,0,0,,0.0
+ex14_1_9,3,2,1,2,0,0,global,0,0,,-8.049116929e-16
+ex14_2_1,8,5,4,5,0,0,global,0,0,,3.808775517e-11
+ex14_2_2,6,4,3,4,0,0,global,0,0,,0.0
+ex14_2_3,10,6,5,6,0,0,global,0,0,,0.0
+ex14_2_4,8,5,4,5,0,0,global,0,0,,0.0
+ex14_2_5,6,4,3,4,0,0,global,0,0,,0.0
+ex14_2_6,8,5,4,5,0,0,global,0,0,,0.0
+ex14_2_7,10,6,5,6,0,0,global,0,0,,0.0
+ex14_2_8,6,4,3,4,0,0,global,0,0,,0.0
+ex14_2_9,6,4,3,4,0,0,global,0,0,,2.22044605e-15
+ex4_1_3,1,1,1,1,0,0,global,0,1,-443.6717047,-443.6717047
+ex2_1_10,11,20,0,20,0,0,global,0,0,,49318.01796
+ex2_1_2,3,6,5,6,0,0,global,0,0,,-213.0
+ex2_1_3,10,13,10,13,0,0,global,0,0,,-15.0
+ex2_1_4,6,6,4,6,0,0,global,0,0,,-11.0
+ex4_1_4,1,1,1,1,0,0,global,0,1,0,0.0
+ex4_1_6,1,1,1,1,0,0,global,0,1,7,7.0
+ex2_1_7,11,20,0,20,0,0,global,0,0,,-4150.410134
+ex4_1_7,1,1,1,1,0,0,global,0,1,-7.5,-7.5
+ex2_1_9,2,10,0,10,0,0,global,0,0,,-0.375
+prob06,2,1,1,1,0,0,global,0,1,,1.177124344
+ex4_1_8,2,2,2,2,0,0,global,0,1,,-16.73889318
+ex3_1_3,7,6,4,6,0,0,global,0,0,,-310.0
+ex3_1_4,4,3,2,3,0,0,global,0,0,,-4.0
+ex4_1_9,3,2,2,2,0,0,global,0,1,,-5.508013271
+mathopt1,3,2,2,2,0,0,global,0,1,,3.289428863e-18
+prob09,1,2,2,2,0,0,global,0,1,,-1.002562255e-13
+rbrock,1,2,2,2,0,0,global,0,1,,2.045321084e-23
+ex4_1_5,1,2,1,2,0,0,global,0,0,,0.0
+st_e01,2,2,2,2,0,0,global,0,1,,-6.666666667
+st_e08,3,2,2,2,0,0,global,1,1,0.74178196,0.7417819582
+st_e09,2,2,2,2,0,0,global,0,1,,-0.5000000001
+st_e17,2,2,2,2,0,0,global,0,1,,Inf
+st_e18,5,2,2,2,0,0,global,0,1,,-2.828427125
+st_e19,3,2,2,2,0,0,global,0,1,,-118.7048598
+st_e22,6,2,2,2,0,0,global,0,1,,-85.0
+st_e23,3,2,2,2,0,0,global,0,1,,-1.083333333
+st_e24,5,2,2,2,0,0,global,0,1,,2.999999999
+st_e26,5,2,2,2,0,0,global,0,1,,-185.7792
+st_ht,4,2,2,2,0,0,global,0,1,,-1.6
+ex6_2_11,2,3,3,3,0,0,global,0,1,,-2.672407762e-6
+ex6_2_6,2,3,3,3,0,0,global,0,1,,-2.602527073e-6
+ex6_2_8,2,3,3,3,0,0,global,0,1,,-0.02700634884
+ex6_1_1,7,8,4,8,0,0,global,0,0,,-0.0201983117
+ex6_1_2,4,4,2,4,0,0,global,0,0,,-0.03246375011
+ex6_1_3,10,12,6,12,0,0,global,0,0,,-0.3524978012
+ex6_1_4,5,6,3,6,0,0,global,0,0,,-0.2945412877
+st_cqpjk2,2,3,3,3,0,0,global,1,1,-12.5,Inf
+st_e02,4,3,3,3,0,0,global,0,1,,201.1593341
+st_e06,4,3,3,3,0,0,global,0,1,,0.0
+st_e11,3,3,3,3,0,0,global,0,1,,189.3116297
+ex6_2_12,3,4,4,4,0,0,global,0,1,,0.2891947485
+ex6_2_14,3,4,4,4,0,0,global,0,1,,-0.6953579346
+ex6_2_9,3,4,4,4,0,0,global,0,1,,-0.03406618412
+sample,3,4,4,4,0,0,global,0,1,,Inf
+st_bpv1,5,4,4,4,0,0,global,0,1,,10.0
+st_bpv2,6,4,4,4,0,0,global,0,1,,-8.0
+st_e04,3,4,4,4,0,0,global,0,1,,5194.866244
+st_e12,4,4,4,4,0,0,global,0,1,,-4.514201651
+st_e41,3,4,4,4,0,0,global,0,1,,641.8235623
+ex2_1_1,2,5,5,5,0,0,global,1,1,-17,-17.0
+ex7_3_1,8,4,0,4,0,0,global,0,0,,0.3417395531
+ex7_3_2,8,4,0,4,0,0,global,0,0,,1.089863971
+ex7_3_3,9,5,1,5,0,0,global,0,0,,0.8175290489
+ex7_3_4,18,12,1,12,0,0,global,0,0,,6.274634337
+ex7_3_5,16,13,1,13,0,0,global,0,0,,1.20687143
+ex7_3_6,18,17,6,17,0,0,global,0,0,,Inf
+ex8_1_3,1,2,0,2,0,0,global,0,0,,3.0
+ex8_1_4,1,2,0,2,0,0,global,0,0,,0.0
+ex8_1_5,1,2,0,2,0,0,global,0,0,,-1.031628453
+ex8_1_6,1,2,0,2,0,0,global,0,0,,-10.0860015
+ex3_1_2,7,5,5,5,0,0,global,0,1,,-30665.53867
+ex8_2_1,32,55,0,55,0,0,global,0,0,,Inf
+ex8_1_7,6,5,5,5,0,0,global,0,1,,0.0293108307
+st_e05,4,5,5,5,0,0,global,0,1,,7049.249272
+ex8_2_2,1948,7510,0,7510,0,0,global,0,0,,Inf
+ex6_2_10,4,6,6,6,0,0,global,0,1,,-3.051976126
+ex6_2_13,4,6,6,6,0,0,global,0,1,,-0.2162094369
+ex8_2_3,3156,15636,0,15636,0,0,global,0,0,,Inf
+ex7_2_2,6,6,6,6,0,0,global,0,1,,-0.3888114343
+st_bsj3,2,6,6,6,0,0,global,0,1,,-86768.55
+ex8_2_4,82,55,0,55,0,0,global,0,0,,Inf
+st_bsj4,5,6,6,6,0,0,global,0,1,,-70262.05
+st_e21,7,6,6,6,0,0,global,0,1,,-13.40190356
+ex8_2_5,3775,2510,0,2510,0,0,global,0,0,,Inf
+st_e34,5,6,6,6,0,0,global,1,1,0.01561953 ,0.01561952524
+ex5_2_4,7,7,7,7,0,0,global,0,1,0.01561953,-450.0
+ex7_2_1,15,7,7,7,0,0,global,0,1,,1227.226075
+ex3_1_1,7,8,8,8,0,0,global,0,1,,7049.248021
+ex5_4_2,7,8,8,8,0,0,global,0,1,,7512.230145
+ex7_2_3,7,8,8,8,0,0,global,0,1,,7049.24802
+ex7_2_4,5,8,8,8,0,0,global,0,1,,3.918010226
+st_iqpbk1,8,8,8,8,0,0,global,0,1,,-621.487825
+st_iqpbk2,8,8,8,8,0,0,global,0,1,,-1195.22565
+st_robot,9,8,8,8,0,0,global,0,1,,0.0
+ex5_2_2_case1,7,9,9,9,0,0,global,0,1,,-400.0
+ex5_2_2_case2,7,9,9,9,0,0,global,0,1,,-600.0
+ex5_2_2_case3,7,9,9,9,0,0,global,0,1,,-750.0
+ex6_2_5,4,9,9,9,0,0,global,0,1,,-70.75207783
+ex6_2_7,4,9,9,9,0,0,global,0,1,,-0.1608476155
+st_e33,7,9,9,9,0,0,global,0,1,,-400.0
+alkylation,12,10,10,10,0,0,global,0,1,,1768.806964
+ex2_1_5,12,10,10,10,0,0,global,1,1,-268.0146315,-268.0146315
+ex2_1_6,6,10,10,10,0,0,global,0,1,,-39.0
+ex8_4_4,13,17,16,17,0,0,global,0,0,,0.2124598387
+process,8,10,10,10,0,0,global,0,1,,-1161.336602
+st_bpaf1a,11,10,10,10,0,0,global,1,1,-45.37971014,-45.37971014
+ex8_4_7,41,62,52,62,0,0,global,0,0,,29.04730672
+ex8_4_8,31,42,22,42,0,0,global,0,0,,Inf
+ex8_4_8_bnd,31,42,22,42,0,0,global,0,0,,3.321847314
+ex8_5_1,5,6,0,6,0,0,global,0,0,,-4.071768724e-7
+ex8_5_2,5,6,0,6,0,0,global,0,0,,-1.150371653e-8
+ex8_5_3,5,5,0,5,0,0,global,0,0,,-0.004135429927
+ex8_5_4,5,5,0,5,0,0,global,0,0,,-0.0004251471009
+ex8_5_5,5,5,0,5,0,0,global,0,0,,-0.01075334273
+ex8_5_6,5,6,0,6,0,0,global,0,0,,-0.001167372151
+ex8_6_1,46,75,24,75,0,0,global,0,0,,-28.42253189
+ex8_6_2,1,30,24,30,0,0,global,0,0,,-31.88862963
+ex9_1_1,13,13,0,13,0,0,global,0,0,,-13.0
+ex9_1_2,10,10,0,10,0,0,global,0,0,,-16.0
+ex9_1_4,10,10,8,10,0,0,global,0,0,,-37.0
+ex9_1_5,13,13,0,13,0,0,global,0,0,,-1.0
+ex9_1_8,13,14,0,14,0,0,global,0,0,,-3.25
+ex9_2_2,12,10,8,10,0,0,global,0,0,,99.99996939
+ex9_2_3,16,16,14,16,0,0,global,0,0,,-0.0
+ex9_2_4,8,8,4,8,0,0,global,0,0,,0.5
+ex9_2_5,8,8,1,8,0,0,global,0,0,,5.000000146
+ex9_2_6,13,16,12,16,0,0,global,0,0,,-1.0
+ex9_2_7,10,10,8,10,0,0,global,0,0,,17.0
+ex9_2_8,6,6,3,6,0,0,global,0,0,,1.5
+filter,2,2,0,2,0,0,global,0,0,,8685.277077
+flowchan100,2399,2400,0,2400,0,0,global,0,0,,Inf
+flowchan200,4799,4800,0,4800,0,0,global,0,0,,Inf
+flowchan400,9599,9600,0,9600,0,0,global,0,0,,Inf
+flowchan50,1199,1200,0,1200,0,0,global,0,0,,Inf
+ganges,274,356,0,356,0,0,global,0,0,,Inf
+gasoil100,2599,2603,0,2603,0,0,global,0,0,,0.005236594316
+gasoil200,5199,5203,0,5203,0,0,global,0,0,,0.005236595871
+gasoil400,10399,10403,0,10403,0,0,global,0,0,,0.005236595833
+gasoil50,1299,1303,0,1303,0,0,global,0,0,,0.005236640021
+glider100,1210,1315,101,1315,0,0,global,0,0,,-1255.058601
+glider200,2410,2615,201,2615,0,0,global,0,0,,-1248.896362
+glider400,4810,5215,401,5215,0,0,global,0,0,,-1247.974318
+glider50,610,665,51,665,0,0,global,0,0,,-244053.1445
+gsg_0001,112,77,72,77,0,0,global,0,0,,2378.160513
+gtm,25,63,36,63,0,0,global,0,0,,Inf
+harker,8,20,0,20,0,0,global,0,0,,Inf
+haverly,10,12,2,12,0,0,global,0,0,,-400.0
+hhfair,26,29,3,29,0,0,global,0,0,,-87.15903761
+himmel16,22,18,0,18,0,0,global,0,0,,-0.8660254038
+house,9,8,3,8,0,0,global,0,0,,-4500.0
+hs62,2,3,0,3,0,0,global,0,0,,-26272.54101
+hydro,25,31,18,31,0,0,global,0,0,,4.36694416e6
+infeas1,1615,273,212,273,0,0,global,0,0,,13685.59646
+jbearing100,1,5304,0,5304,0,0,global,0,0,,Inf
+jbearing25,1,1404,0,1404,0,0,global,0,0,,Inf
+jbearing50,1,2704,0,2704,0,0,global,0,0,,Inf
+jbearing75,1,4004,0,4004,0,0,global,0,0,,Inf
+korcge,78,95,0,95,0,0,global,0,0,,Inf
+launch,29,38,14,38,0,0,global,0,0,,2257.797558
+least,1,3,1,3,0,0,global,0,0,,0.0
+like,4,9,0,9,0,0,global,0,0,,-160.6243051
+linear,21,24,20,24,0,0,global,0,0,,Inf
+st_bpaf1b,11,10,10,10,0,0,global,0,1,,-42.9625576
+mathopt2,5,2,0,2,0,0,global,0,0,,5.314966867e-35
+maxmin,78,26,24,26,0,0,global,0,0,,-0.3660960077
+meanvar,3,8,7,8,0,0,global,0,0,,Inf
+methanol100,2998,3005,0,3005,0,0,global,0,0,,0.009022291067
+methanol200,5998,6005,0,6005,0,0,global,0,0,,0.009022289796
+methanol400,11998,12005,0,12005,0,0,global,0,0,,0.009022289855
+methanol50,1498,1505,0,1505,0,0,global,0,0,,0.007930218792
+mhw4d,4,5,0,5,0,0,global,0,0,,0.02931083072
+minlphi,80,64,6,64,0,0,global,0,0,,582.236142
+minsurf100,1,5304,0,5304,0,0,global,0,0,,2.506949264
+minsurf25,1,1404,0,1404,0,0,global,0,0,,2.519487676
+minsurf50,1,2704,0,2704,0,0,global,0,0,,2.51488916
+minsurf75,1,4004,0,4004,0,0,global,0,0,,2.505686479
+nemhaus,6,5,0,5,0,0,global,0,0,,31.0
+otpop,77,103,16,103,0,0,global,0,0,,7.403902673e-16
+pindyck,97,116,0,116,0,0,global,0,0,,-1170.486285
+pinene100,4996,5005,0,5005,0,0,global,0,0,,19.87217015
+pinene200,9996,10005,0,10005,0,0,global,0,0,,19.87216708
+pinene50,2496,2505,0,2505,0,0,global,0,0,,19.87216552
+pollut,9,42,40,42,0,0,global,0,0,,Inf
+popdynm100,5593,5615,0,5615,0,0,global,0,0,,19746.5286
+popdynm200,11193,11215,0,11215,0,0,global,0,0,,19746.52965
+popdynm25,1393,1415,0,1415,0,0,global,0,0,,19752.21542
+popdynm50,2793,2815,0,2815,0,0,global,0,0,,19746.54516
+st_e03,8,10,10,10,0,0,global,0,1,,-1161.336602
+prob07,36,14,0,14,0,0,global,0,0,,154990.2294
+st_e07,8,10,10,10,0,0,global,1,1,-400,-400.0
+st_jcbpaf2,14,10,10,10,0,0,global,1,1,-794.855914,-794.855914
+prolog,23,20,0,20,0,0,global,0,0,,-0.0
+qp1,3,50,0,50,0,0,global,0,0,,Inf
+qp2,3,50,0,50,0,0,global,0,0,,Inf
+qp3,53,100,0,100,0,0,global,0,0,,0.0008093150504
+qp4,32,79,0,79,0,0,global,0,0,,Inf
+qp5,32,108,0,108,0,0,global,0,0,,Inf
+ramsey,23,33,10,33,0,0,global,0,0,,-2.487468639
+st_e16,10,12,12,12,0,0,global,1,1,12292.46728,12292.46728
+rocket100,503,607,200,607,0,0,global,0,0,,-1.012831902
+rocket200,1003,1207,400,1207,0,0,global,0,0,,-1.012835628
+rocket400,2003,2407,800,2407,0,0,global,0,0,,-1.012836339
+rocket50,253,307,100,307,0,0,global,0,0,,-1.0128171
+sambal,11,17,0,17,0,0,global,0,0,,Inf
+alkyl,8,14,14,14,0,0,global,1,1,-1.76499965,-1.764999646
+ship,17,10,0,10,0,0,global,0,0,,Inf
+ex8_4_6,9,14,14,14,0,0,global,1,1,0.00110498 ,0.001104978993
+st_e30,16,14,14,14,0,0,global,0,1,,-1.58113883
+st_bpk1,7,4,0,4,0,0,global,0,0,,-13.0
+ex8_4_5,12,15,15,15,0,0,global,1,1,0.00030749,0.0003074859878
+ex5_4_3,14,16,16,16,0,0,global,0,1,,4845.462005
+st_bsj2,6,3,0,3,0,0,global,0,0,,1.0
+ex5_3_2,17,22,22,22,0,0,global,1,1,1.86415946,1.864159459
+ex8_4_1,11,22,22,22,0,0,global,1,1,0.61857276,0.6185727593
+st_cqpf,7,4,1,4,0,0,global,0,0,,Inf
+st_cqpjk1,3,4,2,4,0,0,global,0,0,,Inf
+ex2_1_8,11,24,24,24,0,0,global,1,1,15639,15639.0
+ex8_4_2,11,24,24,24,0,0,global,1,1,0.48515249,0.4851524869
+ex5_4_4,20,27,27,27,0,0,global,0,1,,10077.7754
+ex5_2_5,20,32,32,32,0,0,global,1,1,-3500,-3500.0
+ex8_4_3,26,52,52,52,0,0,global,1,1,0.00464972,0.004649715665
+ex8_2_1a,32,55,55,55,0,0,global,1,1,100000000,Inf
+ex8_2_4a,82,55,55,55,0,0,global,1,1,100000000,Inf
+ex8_2_1b,34,57,57,57,0,0,global,1,1,-979.1782737,-979.1782737
+ex8_2_4b,88,61,61,61,0,0,global,1,1,-1197.131899,-1197.131899
+ex5_3_3,54,62,62,62,0,0,global,1,1,3.23401822,3.234018224
+ex8_3_9,46,78,78,78,0,0,global,1,1,-0.76300193,-0.7630019345
+ex8_3_14,72,110,110,110,0,0,global,1,1,-2.49863871,Inf
+ex8_3_2,77,110,110,110,0,0,global,0,1,,-0.4123301847
+ex8_3_3,77,110,110,110,0,0,global,0,1,,-0.4166030833
+ex8_3_4,77,110,110,110,0,0,global,0,1,,-3.579982383
+ex8_3_5,77,110,110,110,0,0,global,0,1,,-0.06911967013
+ex8_3_6,77,110,110,110,0,0,global,0,1,,Inf
+ex8_3_1,77,115,115,115,0,0,global,0,1,,Inf
+ex8_3_11,77,115,115,115,0,0,global,0,1,,Inf
+ex8_3_13,73,115,115,115,0,0,global,0,1,,-43.08947815
+st_e25,9,4,0,4,0,0,global,0,0,,0.8901935907
+ex8_3_12,82,120,120,120,0,0,global,0,1,,Inf
+st_e28,5,9,8,9,0,0,global,0,0,,-30665.53867
+ex8_3_7,93,126,126,126,0,0,global,0,1,,-1.232619191
+ex8_3_8,94,126,126,126,0,0,global,0,1,,-3.256119092
+ex8_3_10,109,141,141,141,0,0,global,0,1,,Inf
+st_e37,2,4,2,4,0,0,global,0,0,,0.00104172024
+ex8_2_5a,3775,2510,2510,2510,0,0,global,0,1,,Inf
+st_e42,3,7,5,7,0,0,global,0,0,,18.7842
+st_fp7a,11,20,0,20,0,0,global,0,0,,-354.7506124
+st_fp7b,11,20,0,20,0,0,global,0,0,,-634.7506124
+st_fp7c,11,20,0,20,0,0,global,0,0,,-8695.012248
+st_fp7d,11,20,0,20,0,0,global,0,0,,-114.7506124
+st_fp7e,11,20,0,20,0,0,global,0,0,,-3730.410134
+st_fp8,21,24,0,24,0,0,global,0,0,,15639.0
+st_glmp_fp1,9,4,2,4,0,0,global,0,0,,10.0
+st_glmp_fp2,10,4,2,4,0,0,global,0,0,,7.344545418
+st_glmp_fp3,9,4,2,4,0,0,global,0,0,,-12.0
+st_glmp_kk90,8,5,2,5,0,0,global,0,0,,3.0
+st_glmp_kk92,9,4,2,4,0,0,global,0,0,,-12.0
+st_glmp_kky,14,7,2,7,0,0,global,0,0,,-2.5
+st_glmp_ss1,12,5,2,5,0,0,global,0,0,,-24.57142857
+st_glmp_ss2,9,5,2,5,0,0,global,0,0,,2.999999997
+ex8_2_5b,3799,2534,2534,2534,0,0,global,0,1,,Inf
+ex8_2_2a,1948,7510,7510,7510,0,0,global,0,1,,Inf
+ex8_2_2b,1960,7522,7522,7522,0,0,global,0,1,,Inf
+ex8_2_3a,3156,15636,15636,15636,0,0,global,0,1,,Inf
+st_m1,12,20,0,20,0,0,global,0,0,,-461356.9389
+st_m2,22,30,0,30,0,0,global,0,0,,-856648.8187
+st_pan1,5,3,0,3,0,0,global,0,0,,-5.283709184
+st_ph1,6,6,0,6,0,0,global,0,0,,-230.117284
+st_ph10,5,2,0,2,0,0,global,0,0,,-10.5
+st_ph11,5,3,0,3,0,0,global,0,0,,-11.28125
+st_ph12,5,3,0,3,0,0,global,0,0,,-22.625
+st_ph13,11,3,0,3,0,0,global,0,0,,-11.28125
+st_ph14,11,3,0,3,0,0,global,0,0,,-229.7222222
+st_ph15,5,4,0,4,0,0,global,0,0,,-392.7037037
+st_ph2,6,6,0,6,0,0,global,0,0,,-1028.117284
+st_ph20,10,3,0,3,0,0,global,0,0,,-158.0
+st_ph3,6,6,0,6,0,0,global,0,0,,-420.2348199
+st_phex,6,2,0,2,0,0,global,0,0,,-85.0
+st_qpc-m0,3,2,0,2,0,0,global,0,0,,-5.000000003
+st_qpc-m1,6,5,0,5,0,0,global,0,0,,-473.7777778
+st_qpc-m3a,11,10,0,10,0,0,global,0,0,,-382.695
+st_qpc-m3b,11,10,0,10,0,0,global,0,0,,0.0
+st_qpc-m3c,11,10,0,10,0,0,global,0,0,,0.0
+st_qpc-m4,11,10,0,10,0,0,global,0,0,,0.0
+st_qpk1,5,2,0,2,0,0,global,0,0,,-3.0
+st_qpk2,13,6,0,6,0,0,global,0,0,,-12.25
+st_qpk3,23,11,0,11,0,0,global,0,0,,-36.0
+ex8_2_3b,3161,15641,15641,15641,0,0,global,0,1,,Inf
+st_rv1,6,10,0,10,0,0,global,0,0,,-59.9439166
+st_rv2,11,20,0,20,0,0,global,0,0,,-64.4806951
+st_rv3,21,20,0,20,0,0,global,0,0,,-35.76067064
+st_rv7,21,30,0,30,0,0,global,0,0,,-138.1874971
+st_rv8,21,40,0,40,0,0,global,0,0,,-132.661629
+st_rv9,21,50,0,50,0,0,global,0,0,,-120.1531085
+st_z,6,3,0,3,0,0,global,0,0,,0.0
+torsion100,5,5308,5000,5308,0,0,global,0,0,,-0.4182392133
+torsion25,5,1408,1250,1408,0,0,global,0,0,,-0.4175107296
+torsion50,5,2708,2500,2708,0,0,global,0,0,,-0.418087632
+torsion75,5,4008,3750,4008,0,0,global,0,0,,-0.4181994007
+turkey,288,518,60,518,0,0,global,0,0,,Inf
+wall,6,5,0,5,0,0,global,0,0,,Inf
+water,26,41,16,41,0,0,global,0,0,,904.9021593
+weapons,13,65,0,65,0,0,global,0,0,,Inf

@@ -36,6 +36,13 @@ for problem_name in global_pd.name
     end
 end
 
+# Updating the CSV
+if !hasproperty(global_pd, :optimum)
+    insertcols!(global_pd, :optimum => col)
+else
+    global_pd.optimum = col
+end
+
 # Writing the optima back to the CSV
 CSV.write("gams/minlp/problem_stats.csv", minlp_pd)
 CSV.write("gams/global/problem_stats.csv", global_pd)
