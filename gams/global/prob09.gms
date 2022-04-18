@@ -22,7 +22,7 @@ Variables  objvar,x2,x3;
 Equations  e1;
 
 
-e1.. 100*sqr(x3 - sqr(x2)) + sqr(1 - x2) - objvar =E= 0;
+e1.. - 100*sqr(x3 - sqr(x2)) - sqr(1 - x2) + objvar =E= 0;
 
 * set non default bounds
 

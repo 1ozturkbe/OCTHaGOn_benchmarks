@@ -17,19 +17,22 @@
 *  Solve m using NLP minimizing objvar;
 
 
-Variables  objvar,x2;
+Variables  objvar,x2,x3;
 
-Equations  e1,e2;
+Equations  e1,e2,e3;
 
 
-e1.. 0.25*objvar - 0.0625*sqr(objvar) - 0.0625*sqr(x2) + 0.5*x2 =L= 1;
+e1.. 0.25*x3 - 0.0625*sqr(x3) - 0.0625*sqr(x2) + 0.5*x2 =L= 1;
 
-e2.. 0.0714285714285714*sqr(objvar) + 0.0714285714285714*sqr(x2) - 
-     0.428571428571429*objvar - 0.428571428571429*x2 =L= -1;
+e2.. 0.0714285714285714*sqr(x3) + 0.0714285714285714*sqr(x2) - 
+     0.428571428571429*x3 - 0.428571428571429*x2 =L= -1;
+
+e3.. x3 =E= objvar;
 
 * set non default bounds
 
-objvar.lo = 1; objvar.up = 5.5; 
+objvar.lo = 1; objvar.up = 5.5;
+x3.lo = 1; x3.up = 5.5; 
 x2.lo = 1; x2.up = 5.5; 
 
 * set non default levels
