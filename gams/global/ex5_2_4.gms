@@ -24,8 +24,8 @@ Positive Variables x1,x2,x3,x4,x5,x6,x7;
 Equations  e1,e2,e3,e4,e5,e6,e7;
 
 
-e1..  - ((9 + (-6*x1) - 16*x2 - 15*x3)*x4 + (15 + (-6*x1) - 16*x2 - 15*x3)*x5)
-      + x6 - 5*x7 - objvar =E= 0;
+e1..  -(- ((9 + (-6*x1) - 16*x2 - 15*x3)*x4 + (15 + (-6*x1) - 16*x2 - 15*x3)*x5)
+      + x6 - 5*x7 - objvar) =E= 0;
 
 e2.. x3*x4 + x3*x5 =L= 50;
 
