@@ -17,10 +17,11 @@
 *  Solve m using NLP maximizing objvar;
 
 
-Variables  x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,objvar;
+Variables  x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,objvar, objvar1;
 
-Equations  e1,e2,e3,e4,e5,e6,e7,e8,e9,e10,e11,e12;
+Equations  e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,e10,e11,e12;
 
+e0..  objvar1 =E= -objvar;
 
 e1..  - 0.063*x4*x7 + 5.04*x1 + 0.035*x2 + 10*x3 + 3.36*x5 + objvar =E= 0;
 
@@ -78,4 +79,4 @@ Model m / all /;
 
 m.limrow=0; m.limcol=0;
 
-Solve m using NLP maximizing objvar;
+Solve m using NLP minimizing objvar1;
